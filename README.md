@@ -1,2 +1,6 @@
 # gerfunky.github.io
-TinyPixelMapper Site
+
+#Welcome!
+Welcome to my site! Im Gerfunky im the developer if the TinyPixelMapper.
+
+
